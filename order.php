@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic Page - Industrious by TEMPLATED</title>
+		<title>Solarize - Purchase</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="" />
@@ -17,7 +17,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a class="logo" href="index.html">Industrious</a>
+				<a class="logo" href="index.php">Solarize</a>
 				<nav>
 					<a href="#menu">Menu</a>
 				</nav>
@@ -26,15 +26,15 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="elements.php">Elements</a></li>
+					<li><a href="order.php">Order</a></li>
 				</ul>
 			</nav>
 
 		<!-- Heading -->
 			<div id="heading" >
-				<h1>Generic Page</h1>
+				<h1>Custom Order</h1>
 			</div>
 
 		<!-- Main -->

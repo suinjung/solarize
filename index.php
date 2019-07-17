@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Industrious by TEMPLATED</title>
+		<title>Solarize</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="" />
@@ -17,7 +17,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a class="logo" href="index.html">Solarize</a>
+				<a class="logo" href="index.php">Solarize</a>
 				<nav>
 					<a href="#menu">Menu</a>
 				</nav>
@@ -26,9 +26,9 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="elements.php">Elements</a></li>
+					<li><a href="order.php">Order</a></li>
 				</ul>
 			</nav>
 
@@ -36,9 +36,16 @@
 			<section id="banner">
 				<div class="inner">
 					<h1>Solarize</h1>
-					<p>A responsive business oriented template with a video background<br />
-					designed by <a href="https://templated.co/">TEMPLATED</a> and released under the Creative Commons License.</p>
-				</div>
+					<ul class="actions">
+						<li><a href="order.php" class="button primary">Buy Now</a></li>
+						<!-- <li><a href="#" class="button">Buy Now</a></li> -->
+					</ul>
+					<p>Solar energy system technology to be licensed to manufacturers
+						including new truck and trailer manufacturers and also applicable to
+						current products being used</p>
+					</div>
+					<!-- designed by <a href="https://templated.co/">TEMPLATED</a> and released under the Creative Commons License. -->
+
 				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
 			</section>
 
