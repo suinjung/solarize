@@ -2836,3 +2836,37 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+li {
+  list-style: none;
+  display: list-item;
+}
+
+.order_field_title {
+  font-weight: bold;
+}
+
+.order_field {
+  /* float: left; */
+  display: inline-block;
+}
+
+/* #login_input, #size_input {
+  margin-left: 25px;
+  margin-bottom: 2%;
+} */
+
+#hours_input, #days_input {
+  background-color: rgba(0, 0, 0, 0.075);
+  border-color: rgba(0, 0, 0, 0.25);
+  padding: 0.5rem;
+  border: solid 1px;
+  border-radius: 4px;
+  color: inherit;
+  display: block;
+  width: 75px;
+}
+
+#order_form_button {
+  text-align: center;
+}
